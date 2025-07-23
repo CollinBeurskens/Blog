@@ -1,2 +1,5 @@
 # Blog
-Personal blog, this is where i store everything of my blog. Including the text, images, videos, audio and more ;)
+Welcome to my personal blog repository!🙂
+
+## What will you find here?
+This is where all of my files for my personal blog are stored (Text, Video, Audio, Graphs and more)
